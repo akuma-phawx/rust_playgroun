@@ -1,2 +1,2 @@
-# rust_playgroun 😊
+# rust_playgroun 
 Learning Rust
