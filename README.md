@@ -1,2 +1,2 @@
-# rust_playground 🎴
+# rust_playground 
 Learning Rust
